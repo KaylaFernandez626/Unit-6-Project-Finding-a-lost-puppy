@@ -1,0 +1,23 @@
+body {background: url(https://altofina.co.uk/wp-content/uploads/2019/01/BLUE012.jpg
+    );}
+
+.puppy-poster {
+	display:flex;
+    justify-content:center;
+}
+img {
+	width: 400px; height: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.puppy-information {
+	display:flex;
+    justify-content:center;
+}
